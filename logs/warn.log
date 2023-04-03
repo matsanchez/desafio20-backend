@@ -1,0 +1,27 @@
+[ LOGGER ]  23-04-02 15:06:24  [WARN] : ruta  /graphql metodo GET no implementada
+[ LOGGER ]  23-04-02 15:06:24  [WARN] : ruta  /favicon.ico metodo GET no implementada
+[ LOGGER ]  23-04-02 15:06:41  [WARN] : ruta  /graphql metodo GET no implementada
+[ LOGGER ]  23-04-02 15:07:02  [WARN] : ruta  /graphql metodo GET no implementada
+[ LOGGER ]  23-04-02 17:49:31  [WARN] : ruta  /unfetch.umd.js.map metodo GET no implementada
+[ LOGGER ]  23-04-02 17:49:32  [WARN] : ruta  /graphiql.min.js.map metodo GET no implementada
+[ LOGGER ]  23-04-02 17:55:43  [WARN] : ruta  /unfetch.umd.js.map metodo GET no implementada
+[ LOGGER ]  23-04-02 17:55:43  [WARN] : ruta  /graphiql.min.js.map metodo GET no implementada
+[ LOGGER ]  23-04-02 18:15:11  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:15:59  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:22:56  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:23:25  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:24:21  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:24:41  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:25:06  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:25:41  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:30:50  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:31:03  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:31:39  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:32:51  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:33:00  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:33:17  [ERROR] : undefined
+[ LOGGER ]  23-04-02 18:33:25  [ERROR] : undefined
+[ LOGGER ]  23-04-02 21:21:57  [ERROR] : undefined
+[ LOGGER ]  23-04-02 21:22:32  [ERROR] : undefined
+[ LOGGER ]  23-04-03 19:22:59  [WARN] : ruta  /favicon.ico metodo GET no implementada
+[ LOGGER ]  23-04-03 19:47:53  [WARN] : ruta  /favicon.ico metodo GET no implementada
